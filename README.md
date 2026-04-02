@@ -1,4 +1,4 @@
-# TikTok Claims vs Opinions: Tableau EDA Dashboar  
+# TikTok Claims vs Opinions: Tableau EDA Dashboard  
 **Coursera Capstone Project — Google Advanced Data Analytics Specialization**  
 > _Visual storytelling meets data analytics. A Coursera capstone project exploring TikTok content performance using Tableau and Python._
 
